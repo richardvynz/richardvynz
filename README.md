@@ -1,11 +1,21 @@
-### Hi there,I am Vincent 👋
+<h1 align="center">Hi 👋, I'm Vincent </h1>
+<h3 align="center">A passionate Backend developer from Nigeria</h3>
 
-I specialize in Java development, adept at crafting both scalable distributed microservices and robust monolithic applications. Proficient across Java versions 8 through 17, I wield expertise in key Java frameworks like Spring, Spring Boot, and Hibernate, coupled with RDBMS proficiency.
+- 🌱 I’m currently learning **Reactjs**
+
+- 💬 Ask me about **Java, Spring boot, hibernate, microservice**
+
+- 📫 How to reach me **richardvynz@gmail.com**
+- I specialize in Java development, adept at crafting both scalable distributed microservices and robust monolithic applications. Proficient across Java versions 8 through 17, I wield expertise in key Java frameworks like Spring, Spring Boot, and Hibernate, coupled with RDBMS proficiency.
 
 My repertoire includes a deep comprehension of object-oriented programming tenets and adept application of design patterns. I navigate SQL databases such as MySQL, PostgreSQL, and NoSQL databases like MongoDB with ease.
 
 Beyond technical prowess, I thrive as a collaborative team player, backed by strong communication acumen. My enthusiasm for learning propels me to continually enhance my skills.
 
-Explore my portfolio on GitHub, showcasing personal projects and valuable contributions to open-source endeavors.
+- ⚡ Fun fact **"Here's a fun fact about me: I once debugged a particularly stubborn code issue while juggling three rubber ducks on my desk. Surprisingly, it worked! Who knew rubber ducks were such effective debugging partners?**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardvynz)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
