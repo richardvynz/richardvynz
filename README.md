@@ -7,3 +7,5 @@ My repertoire includes a deep comprehension of object-oriented programming tenet
 Beyond technical prowess, I thrive as a collaborative team player, backed by strong communication acumen. My enthusiasm for learning propels me to continually enhance my skills.
 
 Explore my portfolio on GitHub, showcasing personal projects and valuable contributions to open-source endeavors.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardvynz)](https://github.com/anuraghazra/github-readme-stats)
